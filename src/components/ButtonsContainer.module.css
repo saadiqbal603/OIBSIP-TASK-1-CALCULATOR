@@ -1,0 +1,17 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.button {
+  height: 45px;
+  width: 45px;
+  margin: 9px;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 50px;
+  border: none;
+}
+.specialButton {
+  background: #f79e4c;
+}
